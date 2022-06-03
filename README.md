@@ -19,10 +19,20 @@ In this project we have tried to manipulate dom elements, styling using css and 
 For storing user data we also used LocalStorage.
 
 # Images 🌟
+* Login:
+<br/>
 <img src='/Images/Login.png'/>
+* Home:
+<br/>
 <img src='/Images/MamaEarth.png'/>
+*Product :
+<br/>
 <img src='/Images/Product.png'/>
+* Cart :
+<br/>
 <img src='/Images/Cart.png'/>
+* Checkout :
+<br/>
 <img src='/Images/Checkout.png'/>
 
 # End Notes  📑
