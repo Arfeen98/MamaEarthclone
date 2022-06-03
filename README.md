@@ -12,13 +12,18 @@ Mamaearth products will take care of every parents & baby’s well-being from he
 In this project we have tried to manipulate dom elements, styling using css and tried to make a dynamic and responsive website. With our efforts and the technology stack, that we have learned till now in Unit-3 in the Masai school, we were able to clone more or less the whole website with same looking and features.
 
 # Technolgy Stack Used 🌟
-
 * HTML
 * CSS
 * JavaScript
 
 For storing user data we also used LocalStorage.
 
+# Images 🌟
+<img src='/Images/Login.png'/>
+<img src='/Images/MamaEarth.png'/>
+<img src='/Images/Product.png'/>
+<img src='/Images/Cart.png'/>
+<img src='/Images/Checkout.png'/>
 
 # End Notes  📑
 In this project we have tried to achieve a near to perfect clone of the original website as much as possible. This entire journey of this construct week has given us experiences and we have learned lots of things by applying to the real website and it gave us a lot of confidence. Most of the features are added and functionality of the website is achieved.
